@@ -108,7 +108,7 @@ export default function Portfolio() {
             <InfoItem 
               icon={Terminal} 
               label="LeetCode" 
-              value="50 + Questions Solved" 
+              value="100 + Questions Solved" 
               isLink={true} 
             />
 
