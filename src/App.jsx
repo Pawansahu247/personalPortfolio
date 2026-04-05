@@ -226,7 +226,7 @@ export default function Portfolio() {
               <InfoItem icon={Smartphone} label="Phone" value="+91 70010 XXXXX" />
               <InfoItem icon={MapPin} label="Location" value="Jashpur, Chhattisgarh" />
               <InfoItem icon={Terminal} label="LeetCode" isLink value={<a href="https://leetcode.com/u/sahux07/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-[#ffdb70] transition-colors font-semibold">100+ Problem Solved</a>} />
-              <InfoItem icon={Award} label="Achievement" value="Scholar @ SAP 2026 Batch" />
+              <InfoItem icon={Award} label="Achievement" isLink value={<a href="https://leetcode.com/discuss/post/7786619/sapscholar-software-engineer-oncampus-se-04hz/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-[#ffdb70] transition-colors font-semibold">Scholar @ SAP 2026 Batch</a>} />
               <InfoItem icon={Briefcase} label="Internship" isLink value={<a href="https://digitalnexusai.com/" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-[#ffdb70] transition-colors font-semibold">Digital Nexus AI</a>} />
             </div>
 
